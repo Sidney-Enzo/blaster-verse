@@ -1,0 +1,29 @@
+                         Characters
+ - spaceship captan (Player)
+  You're the spaceshíp captan and need survive at the asteroids wave
+ you control a cool spaceship equippied with lasers guns.
+
+                          Narrative
+ My space game is a spaceship arcade game, you need dodge, destroy and
+survave to an asteroids wave in your incredible spaceship while you get
+points, try survive as long you can and get the maximum of points that 
+you can.
+
+                       Targer platforms
+ - mobile
+ - console
+
+                       Ui/Player control
+ - Joystick (touch/control), Move/rotate the player nave
+ - Touch right screen side or "a" (control) button, Shoot 2 bullets
+ 
+
+                        Game mechanics
+ - player can shoot on asteroids
+ - You dodge of asteroids and explode the asteroids to get pont
+     - explode an asteroid gives you 100 points
+     - dodge them give you 10 points by second
+ - if the asteroid get collides on player the same loses 1 hp point 
+and the asteroid explode
+ - if the player loses 3 hp points the same dies
+ 

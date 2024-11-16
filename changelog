@@ -1,0 +1,82 @@
+# Blaster verse changelog
+
+## [Unreleased]
+
+## [version 0.0.5] - 26/03/24
+
+### Added
+ - player (x)
+     - spaceShip (x)
+         - Fire (x)
+         - Movimentation (x)
+         - Collider (x)
+             - Hp (x)
+                 - Die (x)
+                     - sound (x)
+ - hud (x)
+     - Joystick (x)
+     - Pause (x)
+     - Hearts (x)
+     - Score (x)
+     - HI score (x)
+ - Gamplay (x)
+     - asteroids (x)
+         - rotation (x)
+         - speed (x)
+         - collision (x)
+             - size (x)
+                 - Hp (x)
+                     - vibration (x)
+                     - destroy (x)
+                         - animation (x)
+                         - sound (x)
+     - random generation (x)
+ - background (x)
+     - music (x)
+     - ambientation (x)
+         - space sound (x)
+         - planets (x)
+         - blackhole (x)
+         - nebula (x)
+         - satelete (x)
+         - moon (x)
+         - stars (x)
+ - substates
+     - dead screen (x)
+         - display score (x)
+         - display hi score (x)
+         - back to menu and restart game (x)
+     - pause (x)
+         - options (x)
+         - back to menu (x)
+         - unpause (x)
+ - states (x)
+     - mainMenu (x)
+         - background (x)
+         - title (x)
+         - credits (x)
+             - created by (x)
+             - art by (x)
+             - music by (x)
+             - special thanks (x)
+         - options (x)
+             - volume and audio volume (x)
+         - play button (x)
+     - playstate (x)
+
+## [Released]
+
+## [version 0.0.7] - 26/03/24
+
+### Changed
+ - asteroids(x)
+     - spawn rate(x)
+     - collider size(x)
+     - exolosion animation speed (x)
+ - player (x)
+     - vibration timer (x)
+     - collider size (x)
+
+### fixed
+ - fullscreen (x)
+ - buttons position (x)
